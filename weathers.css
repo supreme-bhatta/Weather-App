@@ -1,0 +1,53 @@
+h1{
+    margin-left : 34%;
+}
+.dv{
+    margin-left : 40%;
+}
+#info{
+    margin-left : 32%;
+    margin-right : 9%;
+    min-height: 72vh;
+    max-width: 72vh ;
+    background : linear-gradient(hsl(210, 100%, 75%),hsl(40, 100%, 75%));
+}
+input{
+    border-radius : 5px;
+    border-width : 3px;
+    min-width: 35px;
+    min-height: 30px;
+}
+input:focus{
+    border-color : rgb(5, 239, 5);
+    outline : none;
+}
+img{
+    max-width : 40px;
+    max-height : 45px;
+    margin-right : 40px;
+}
+a{
+    font-size: 18px;
+    margin-right : 6px;
+    color : blue;
+    text-decoration : none;
+}
+.cloud{
+    margin-left : 8%;
+}
+.ct{
+    margin-left : 8%;
+}
+.hum{
+    margin-left : 3%;
+}
+.emj{
+    margin-left : 15%;
+    font-size: 40px;
+}
+button{
+    min-width: 35px;
+    min-height: 37px;
+    background-color: green;
+    color : white;
+}   
